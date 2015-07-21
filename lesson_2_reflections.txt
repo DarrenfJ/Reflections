@@ -31,5 +31,13 @@ not labelled into its own branch. this will set us up nicely to understand mergi
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches creates one branch (or master) with all the commits incorporated, 
-timestamped in order. While you 'call' on of htem a master it is in effect like a 'new' master. So you
+timestamped in order. While you 'call' on of them a master it is in effect like a 'new' master. So you
 would 'draw' it slightly over to one side in the diagram.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Manual merges gives you control over when to merge. Ideally when there is a change that's 
+enough along the way that it makes sense t push it back into the master.
+Con is that people can underestimate the number of changes and not merge soon enough 
+and end up with more conflicts. 
