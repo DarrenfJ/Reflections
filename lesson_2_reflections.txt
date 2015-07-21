@@ -10,3 +10,6 @@ The stagin area seems to offer up a place for files to 'sit' before they are com
 Like preparing for jumping out of an airplane... you have to line up near the door
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Make sure you commit any time there's a major 'logical' change to what you are working on
