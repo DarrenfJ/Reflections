@@ -13,3 +13,12 @@ Like preparing for jumping out of an airplane... you have to line up near the do
 How can you use the staging area to make sure you have one commit per logical change?
 
 Make sure you commit any time there's a major 'logical' change to what you are working on
+
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+Specifically when working on something that is slightly different than the original and might 
+go off and become it's own 'thing'
+
+
