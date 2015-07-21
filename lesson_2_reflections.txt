@@ -22,3 +22,7 @@ Specifically when working on something that is slightly different than the origi
 go off and become it's own 'thing'
 
 
+How do the diagrams help you visualize the branch structure?
+
+they 'show' the branches in a tree-like way and also make it clean what is not reachable if 
+not labelled into its own branch. this will set us up nicely to understand merging, methinks.
