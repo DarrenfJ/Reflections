@@ -26,3 +26,10 @@ How do the diagrams help you visualize the branch structure?
 
 they 'show' the branches in a tree-like way and also make it clean what is not reachable if 
 not labelled into its own branch. this will set us up nicely to understand merging, methinks.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches creates one branch (or master) with all the commits incorporated, 
+timestamped in order. While you 'call' on of htem a master it is in effect like a 'new' master. So you
+would 'draw' it slightly over to one side in the diagram.
